@@ -34,6 +34,5 @@
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="src" path="/liche_utils"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
