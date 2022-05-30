@@ -1,7 +1,7 @@
 package edu.n3.exercise_1;
 
 import com.liche.utils.console.menu.ConsoleMenu;
-import com.liche.utils.io.*;
+import com.liche.utils.io.Input;
 
 public class App {
 	
